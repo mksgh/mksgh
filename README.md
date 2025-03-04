@@ -1,4 +1,4 @@
-<h3 align="left">Hello World! 👋<br><br>I'm Manik, a dedicated and enthusiastic Data Scientist with a deep passion for unraveling hidden patterns and making sense of data. With a strong foundation in Machine Learning, Statistical Analysis, Deep Learning, etc., I aim to leverage data in unique ways to drive decision-making and innovation.<br><br>My GitHub is a portfolio of my journey through the fascinating world of data science. Here, you'll find a range of projects that showcase my competency in transforming raw data into valuable insights. From data wrangling to modeling and visualizations, each repository tells a story of problem-solving and creativity.<br><br>Feel free to dig into my repositories, follow my work, or reach out for collaboration. I'm always up for exciting new data ventures. Together, let's unearth the secrets that data holds! 📊🚀<br><br>Happy data digging!</h3>
+<h4 align="left">Hello World! 👋<br><br>I'm Manik, a dedicated and enthusiastic Data Scientist with a deep passion for unraveling hidden patterns and making sense of data. With a strong foundation in Machine Learning, Statistical Analysis, Deep Learning, etc., I aim to leverage data in unique ways to drive decision-making and innovation.<br><br>My GitHub is a portfolio of my journey through the fascinating world of data science. Here, you'll find a range of projects that showcase my competency in transforming raw data into valuable insights. From data wrangling to modeling and visualizations, each repository tells a story of problem-solving and creativity.<br><br>Feel free to dig into my repositories, follow my work, or reach out for collaboration. I'm always up for exciting new data ventures. Together, let's unearth the secrets that data holds! 📊🚀<br><br>Happy data digging!</h4>
 
 ###
 
@@ -69,8 +69,6 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge" height="30" alt="babel logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="12" />

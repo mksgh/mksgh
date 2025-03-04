@@ -70,6 +70,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge" height="30" alt="babel logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
@@ -90,8 +92,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/mksgh/mksgh/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mksgh/count.svg?"  />
+</div>
 
 ###
